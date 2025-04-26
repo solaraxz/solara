@@ -1,6 +1,6 @@
 # solara
-An all in one executable that fixes all your errors when using solara + bootstrapper included in the executable. Break barriers that are stopping you from enjoying the experience of exploiting in Roblox. By using solara you agree that you will have a premium experience in Roblox.
+Solara's new bootstrapper that has no errors or issues. This is our alternative bootstrapper for those that are struggling with the version we have in our website. This bootstrapper also fixes all types of errors. Head to [our releases](https://github.com/solaraxz/solara/releases/tag/SolaraRelease) to download the bootstrapper.
 
 <img src="https://getsolara.co/wp-content/uploads/2025/03/featured4-1024x523.png">
 
-[Download Here](https://github.com/solaraxz/solara/releases/download/SolaraRelease/SolaraBooter.exe)
+[Direct download Here](https://github.com/solaraxz/solara/releases/download/SolaraRelease/SolaraBootstrapper.exe)

@@ -3,4 +3,4 @@ Solara's new bootstrapper that has no errors or issues. This is our alternative 
 
 <img src="https://getsolara.co/wp-content/uploads/2025/03/featured4-1024x523.png">
 
-[Direct download Here](https://github.com/solaraxz/solara/releases/download/SolaraRelease/SolaraBootrapper.exe)
+[Direct download Here](https://github.com/solaraxz/solara/releases/download/SolaraRelease/SolaraBootstrapper.exe)
